@@ -1,0 +1,143 @@
+body {
+  margin: 0;
+  text-align: center;
+  font-family: 'merriweather', serif;
+}
+.text-first{
+  width: 30%;
+  margin: auto;
+  color: #40514E;
+}
+h1 {
+  font-size: 5.625rem;
+  margin-top: 0;
+  font-family: 'sacramento', cursive;
+  color: #66BFBF;
+  line-height: 2;
+}
+
+
+
+h2 {
+  color: #66BFBF;
+  font-family: 'montserrat', sans-serif;
+  font-size: 2.5rem;
+  font-weight: normal;
+}
+
+h3 {
+  color: #11999E;
+  font-family: 'montserrat', sans-serif;
+}
+p{
+  line-height: 2;
+}
+
+hr{
+border-style: dotted none none;
+border-width: 10px;
+height: 2px;
+width: 6%;
+border-color: #EAF6F6;
+margin: 100px auto;
+}
+
+.top-container {
+  position: relative;
+  background-color: #EAF6F6;
+  padding-top: 100px;
+}
+
+.top-cloud {
+  position: absolute;
+  right: 300px;
+  top: 50px;
+}
+
+.hey {
+  font-weight: normal;
+}
+
+.bottom-cloud {
+  position: absolute;
+  left: 300px;
+  bottom: 300px;
+}
+
+.HAHA {
+  text-decoration: underline;
+}
+
+a {
+  color: #11999E;
+}
+.btn{
+  color: #66BFBF;
+}
+
+.here {
+  margin: 0;
+}
+.skill-row{
+width: 50%;
+margin:100px auto 100px auto;
+text-align: left;
+}
+
+.bottom-container {
+
+  background-color: #66BFBF;
+  height: 200px;
+  margin-top: 3%;
+  padding-top: 20px;
+}
+  .codingimage{
+    width: 20%;
+    float: left;
+    padding-right: 30px;
+  }
+  .bickimage{
+      width:20%;
+      float:right;
+      margin-right:  300px;
+  }
+
+
+  .BUTTON_CQR {
+   background: #3D94F6;
+   background-image: -webkit-linear-gradient(top, #3D94F6, #1E62D0);
+   background-image: -moz-linear-gradient(top, #3D94F6, #1E62D0);
+   background-image: -ms-linear-gradient(top, #3D94F6, #1E62D0);
+   background-image: -o-linear-gradient(top, #3D94F6, #1E62D0);
+   background-image: -webkit-gradient(to bottom, #3D94F6, #1E62D0);
+   -webkit-border-radius: 40px;
+   -moz-border-radius: 40px;
+   border-radius: 40px;
+   color: #FFFFFF;
+   font-family: Open Sans;
+   font-size: 31px;
+   font-weight: 300;
+   padding: 26px;
+   -webkit-box-shadow: 0 0 0 0 #000000;
+   -moz-box-shadow: 0 0 0 0 #000000;
+   box-shadow: 0 0 0 0 #000000;
+   text-shadow: 0 0 0 #0059A0;
+   border: solid #337FED 0;
+   text-decoration: none;
+   display: inline-block;
+   cursor: pointer;
+   text-align: center;
+}
+.yes{
+  margin-bottom: 20px;
+}
+.no{color: #EAF6F6;
+  position: relative;
+  top: 50px;
+}
+.footer-link1{
+  padding-right: 20px;
+}
+.footer-link2{
+  padding-right: 20px;
+}
